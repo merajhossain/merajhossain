@@ -24,9 +24,12 @@
 
 <h3 align="left">Support:</h3>
 <p style="display:inline-block;"><a href="https://www.buymeacoffee.com/merajhossain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="merajhossain" /></a></p><br><br>
-
+<div style="display:inline-block;">
 <p style="display:inline-block;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=merajhossain&show_icons=true&locale=en&layout=compact" alt="merajhossain" /></p>
-
+</div>
+<div style="display:inline-block;">
 <p style="display:inline-block;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merajhossain&show_icons=true&locale=en" alt="merajhossain" /></p>
-
+</div>
+<div style="display:inline-block;">
 <p style="display:inline-block;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merajhossain&" alt="merajhossain" /></p>
+</div>
