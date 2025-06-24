@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meraj Hossain</h1>
-<h3 align="center">Passionate and detail-oriented frontend developer with 5+ years of experience from Bangladesh. Building user-friendly and visually appealing websites and applications. Skilled in HTML, CSS, JavaScript, React, Redux, and various frontend frameworks. Strong problem-solving abilities and a collaborative team player. Committed to staying updated with the latest industry trends and technologies.</h3>
+<h3 align="center">Passionate and detail-oriented frontend developer with 8+ years of experience from Bangladesh. Building user-friendly and visually appealing websites and applications. Skilled in HTML, CSS, JavaScript, React, Redux, and various frontend frameworks. Strong problem-solving abilities and a collaborative team player. Committed to staying updated with the latest industry trends and technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merajhossain&label=Profile%20views&color=0e75b6&style=flat" alt="merajhossain" /> </p>
 
