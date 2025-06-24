@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://merajhossain.com/](https://merajhossain.com/)
 
-- 📫 How to reach me **merajhossain29@gmal.com**
+- 📫 How to reach me **merajhossain29@gmail.com**
 
 - 📄 Know about my experiences [https://merajhossain.com/wp-content/uploads/2023/08/Meraj-Hossain.pdf](https://merajhossain.com/wp-content/uploads/2023/08/Meraj-Hossain.pdf)
 
