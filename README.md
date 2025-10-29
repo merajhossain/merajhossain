@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **merajhossain29@gmail.com**
 
-- 📄 Know about my experiences [https://merajhossain.com/wp-content/uploads/2023/08/Meraj-Hossain.pdf](https://merajhossain.com/wp-content/uploads/2023/08/Meraj-Hossain.pdf)
+- 📄 Know about my experiences [https://merajhossain.com/cv/Meraj-Hossain-Resume.pdf](https://merajhossain.com/cv/Meraj-Hossain-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
